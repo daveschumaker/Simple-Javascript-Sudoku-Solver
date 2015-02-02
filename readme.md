@@ -1,4 +1,4 @@
-# Dave's Super Simple and Super Inefficient Sudoku Solver
+# Dave's Super Sudoku Solver (for easy puzzles)
 
 One of the things I resolved to do this year was get better at Javascript. I've dabbled in coding here and there and have always enjoyed it, so why not try and get better at it?
 
